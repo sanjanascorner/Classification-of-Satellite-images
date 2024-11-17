@@ -22,7 +22,7 @@ The entire process is implemented using MATLAB
 
    
 #### Dataset - 
-Link and/or Explanation if generated
+Images were Obtained from Google
 
 #### Novelty - 
 1. Use of Gli to compute vegetation areas in the image.
