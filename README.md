@@ -14,9 +14,10 @@ The entire process is implemented using MATLAB
    
 #### Additional concepts used -
 1. RGB channels:  Red, Green, and Blue components of an image, where each channel contains intensity values of that particular image.
-   img(:,:,1) extracts the Red channel of the image.,
-   img(:,:,2) extracts the Green channel of the image.,
-   img(:,:,3) extracts the Blue channel of the image.,
+   - `img(:,:,1)` extracts the Red channel of the image.
+- `img(:,:,2)` extracts the Green channel of the image.
+- `img(:,:,3)` extracts the Blue channel of the image.
+
 3. GLI(Green Leaf Index): Computes regions high in vegetation in the image using Blue,Red and Green channels of an image.
    
 
