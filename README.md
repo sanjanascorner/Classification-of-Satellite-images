@@ -20,10 +20,6 @@ The entire process is implemented using MATLAB
 
 3. GLI(Green Leaf Index): Computes regions high in vegetation in the image using Blue,Red and Green channels of an image.
 
-
-\[
-\text{GLI} = \frac{(2 \cdot G - R - B)}{(2 \cdot G + R + B + \epsilon)}
-\]
    
 #### Dataset - 
 Link and/or Explanation if generated
