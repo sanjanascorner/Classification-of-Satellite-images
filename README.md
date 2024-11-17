@@ -21,18 +21,17 @@ The entire process is implemented using MATLAB
 3. GLI(Green Leaf Index): Computes regions high in vegetation in the image using Blue,Red and Green channels of an image.
 
 
-
-
-   
-
+\[
+\text{GLI} = \frac{(2 \cdot G - R - B)}{(2 \cdot G + R + B + \epsilon)}
+\]
    
 #### Dataset - 
 Link and/or Explanation if generated
 
 #### Novelty - 
-1. -
-2. -
-3. -
+1. Use of Gli to compute vegetation areas in the image.
+2. Morphological operations to refine detected regions.
+
    
 ### Contributors:
 1. Pratyusha Gupta (PES1UG22EC214)
@@ -56,4 +55,4 @@ Link and/or Explanation if generated
 1. 1. [Xie, Z., & Chen, J. (2008). *Urban land classification using multi-temporal satellite images*](https://www.sciencedirect.com/science/article/abs/pii/S0034425708001971). *International Journal of Applied Earth Observation and Geoinformation*, 10(3), 278-285.
 2. -
    
-### Limitations and Future Work:
+### Limitations and Future Work: 
