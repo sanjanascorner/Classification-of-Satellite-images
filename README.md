@@ -7,7 +7,7 @@ The entire process is implemented using MATLAB
 #### Summary - 
 
 #### Course concepts used - 
-1. Preprocessing by using grayscale conversion.
+1. Preprocessing by using grayscale conversion,median filtering and histogram equalization
 2. Spatial Filtering concepts such as Gaussian Filtering,Thresholding and Edge Detection.
 3. Morphological Operations such as Closing.
    
