@@ -3,16 +3,23 @@
 ### Project Description: 
 Satellite image processing is a crucial area of research due to its broad applications, ranging from environmental monitoring to urban planning and disaster management. The field has evolved significantly, transitioning from traditional methods involving handcrafted features to advanced techniques such as machine learning.
 This repository focuses on satellite image analysis by implementing a systematic, step-by-step process using image processing techniques to classify a given image into water, forest, and urban areas.
+The entire process is implemented using MATLAB
 #### Summary - 
 
 #### Course concepts used - 
-1. -
-2. -
-3. -
+1. Preprocessing by using grayscale conversion.
+2. Spatial Filtering concepts such as Gaussian Filtering,Thresholding and Edge Detection.
+3. Morphological Operations such as Closing.
+   
    
 #### Additional concepts used -
-1. -
-2. -
+1. RGB channels:  Red, Green, and Blue components of an image, where each channel contains intensity values of that particular image.
+   img(:,:,1) extracts the Red channel of the image.
+   img(:,:,2) extracts the Green channel of the image.
+   img(:,:,3) extracts the Blue channel of the image.
+3. GLI(Green Leaf Index): Computes regions high in vegetation in the image using Blue,Red and Green channels of an image.
+   
+
    
 #### Dataset - 
 Link and/or Explanation if generated
