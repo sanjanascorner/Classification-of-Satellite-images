@@ -51,7 +51,16 @@ Images were Obtained from Google
 
 
 ### References:
-1. 1. [Xie, Z., & Chen, J. (2008). *Urban land classification using multi-temporal satellite images*](https://www.sciencedirect.com/science/article/abs/pii/S0034425708001971). *International Journal of Applied Earth Observation and Geoinformation*, 10(3), 278-285.
-2. -
+1.  [Xie, Z., & Chen, J. (2008). *Urban land classification using multi-temporal satellite images*](https://www.sciencedirect.com/science/article/abs/pii/S0034425708001971). *International Journal of Applied Earth Observation and Geoinformation*, 10(3), 278-285.
+   
+2. J. Babbar and N. Rathee, "Satellite Image Analysis: A Review," *IEEE Xplore*, Trivandrum, India, 2024. [Online]. Available: https://doi.org/10.1109/ICSPC.2021.9451755. Accessed: Oct. 25, 2024.
+
+3. M. M. Manikandan, A. D. Andrushia, and T. M. Neebha, "Image-Based Land Cover Classification for Remote Sensing Applications – A Review," in *2021 3rd International Conference on Signal Processing and Communication (ICPSC)*, Coimbatore, India, May 2021. [Online]. Available: https://doi.org/10.1109/ICSPC.2021.9451755. Accessed: Oct. 25, 2024.
+
    
 ### Limitations and Future Work: 
+- `Threshold Dependency:' The method heavily relies on accurate intensity thresholds, which may vary across different satellite images or conditions.
+
+- 'Edge Artifacts:' Inconsistent edge detection in noisy images may lead to errors in classification.
+
+- 'Lack of Spectral Analysis:' Advanced classification techniques using spectral data (e.g., NDVI) are not utilized.
