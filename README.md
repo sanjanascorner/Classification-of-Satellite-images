@@ -1,6 +1,8 @@
-# Project Name
+# Classification of satellite images into water, land and urban areas
 
-### Project Description:
+### Project Description: 
+Satellite image processing is a crucial area of research due to its broad applications, ranging from environmental monitoring to urban planning and disaster management. The field has evolved significantly, transitioning from traditional methods involving handcrafted features to advanced techniques leveraging high-performance computing and machine learning.
+This repository focuses on satellite image analysis by implementing a systematic, step-by-step process using image processing techniques to classify a given image into water, forest, and urban areas.
 #### Summary - 
 
 #### Course concepts used - 
