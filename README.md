@@ -44,8 +44,9 @@ Link and/or Explanation if generated
 ```python main.py (for eg.)```
 
 ### Outputs:
-* Important intermediate steps
-* Final output images 
+* ![image](https://github.com/user-attachments/assets/06ba5ea9-9ec1-4f05-9184-89cedf669f25)
+
+* 
 
 ### References:
 1. 1. [Xie, Z., & Chen, J. (2008). *Urban land classification using multi-temporal satellite images*](https://www.sciencedirect.com/science/article/abs/pii/S0034425708001971). *International Journal of Applied Earth Observation and Geoinformation*, 10(3), 278-285.
