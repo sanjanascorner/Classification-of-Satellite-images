@@ -59,8 +59,8 @@ Images were Obtained from Google
 
    
 ### Limitations and Future Work: 
-- `Threshold Dependency:' The method heavily relies on accurate intensity thresholds, which may vary across different satellite images or conditions.
+- Threshold Dependency:The method heavily relies on accurate intensity thresholds, which may vary across different satellite images or conditions.
 
-- 'Edge Artifacts:' Inconsistent edge detection in noisy images may lead to errors in classification.
+- Edge Artifacts: Inconsistent edge detection in noisy images may lead to errors in classification.
 
-- 'Lack of Spectral Analysis:' Advanced classification techniques using spectral data (e.g., NDVI) are not utilized.
+- Lack of Spectral Analysis:Advanced classification techniques using spectral data (e.g., NDVI) are not utilized.
